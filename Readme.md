@@ -32,10 +32,11 @@ Notre application est un **site interactif éducatif** qui :
 
 ---
 
-## 🚀 Démonstration
+## 🚀 Liens Utiles
 
-🔗 [Lien du site](https://cheerful-paletas-bab6b6.netlify.app)
-🔗 [Lien du canva](https://www.canva.com/design/DAGrV0UIkag/T80ZObgNYYy0KZc_NTdBpA/edit?ui=eyJBIjp7fX0)
+- 🔗 **Site web (démo)** : [https://cheerful-paletas-bab6b6.netlify.app](https://cheerful-paletas-bab6b6.netlify.app)  
+- 🖼️ **Présentation Canva** : [Voir la présentation](https://www.canva.com/design/DAGrV0UIkag/T80ZObgNYYy0KZc_NTdBpA/edit?ui=eyJBIjp7fX0)
+
 ---
 
 ## 👥 Membres de l'Équipe
