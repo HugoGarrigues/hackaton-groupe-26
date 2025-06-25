@@ -34,7 +34,7 @@ Notre application est un **site interactif éducatif** qui :
 
 ## 🚀 Liens Utiles
 
-- 🔗 **Site web (démo)** : [https://comforting-semifreddo-447f34.netlify.app/](https://comforting-semifreddo-447f34.netlify.app/)  
+- 🔗 **Site web (démo)** : [Voir la présentation](https://comforting-semifreddo-447f34.netlify.app/)
 - 🖼️ **Présentation Canva** : [Voir la présentation](https://www.canva.com/design/DAGrV0UIkag/T80ZObgNYYy0KZc_NTdBpA/edit?ui=eyJBIjp7fX0)
 
 ---
