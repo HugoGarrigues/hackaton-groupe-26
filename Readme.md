@@ -34,8 +34,8 @@ Notre application est un **site interactif éducatif** qui :
 
 ## 🚀 Démonstration
 
-🔗 [Accéder à l'application](https://cheerful-paletas-bab6b6.netlify.app)
-
+🔗 [Lien du site](https://cheerful-paletas-bab6b6.netlify.app)
+🔗 [Lien du canva](https://www.canva.com/design/DAGrV0UIkag/T80ZObgNYYy0KZc_NTdBpA/edit?ui=eyJBIjp7fX0)
 ---
 
 ## 👥 Membres de l'Équipe
