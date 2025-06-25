@@ -27,7 +27,7 @@ Notre application est un **site interactif éducatif** qui :
 
 | Outil IA | Rôle |
 |----------|------|
-| **ChatGPT** | Génération de slogans, contenu textuel pédagogique, aide à la structure UX/UI |
+| **ChatGPT** | Génération de slogans, contenu textuel pédagogique |
 | **Bolt** | Création du site web |
 
 ---
